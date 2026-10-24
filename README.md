@@ -6,13 +6,13 @@ O backend fornece os endpoints utilizados pela aplicação frontend para cadastr
 
 ## Tecnologias utilizadas
 
-- **Node.js** — ambiente de execução JavaScript.
-- **Express** — criação e gerenciamento das rotas HTTP.
-- **Prisma ORM** — comunicação com o banco de dados.
-- **MongoDB Atlas** — banco de dados NoSQL em nuvem.
-- **Axios** — utilizado no frontend para consumir a API.
-- **CORS** — configuração de acesso entre origens.
-- **dotenv** — carregamento de variáveis de ambiente.
+- **Node.js** - ambiente de execução JavaScript.
+- **Express** - criação e gerenciamento das rotas HTTP.
+- **Prisma ORM** - comunicação com o banco de dados.
+- **MongoDB Atlas** - banco de dados NoSQL em nuvem.
+- **Axios** - utilizado no frontend para consumir a API.
+- **CORS** - configuração de acesso entre origens.
+- **dotenv** - carregamento de variáveis de ambiente.
 
 ## Funcionalidades
 
